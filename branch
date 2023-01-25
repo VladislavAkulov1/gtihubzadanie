@@ -1,0 +1,5 @@
+## git branch
+
+**git branch** - показывает список всех веток в репозитории.
+```bash=
+git branch
